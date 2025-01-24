@@ -141,7 +141,7 @@ body .wrapper main {
 body .wrapper main header {
   background-color: var(--light);
   position: fixed;
-  width: 83%;
+  width: 82%;
   z-index: 1;
 }
 body .wrapper main header nav {
@@ -184,7 +184,7 @@ body .wrapper main header nav form .form-input input {
 }
 body .wrapper main header nav form .form-input button {
   position: absolute;
-  left: 43%;
+  left: 47%;
   top: 10px;
   width: 36px;
   height: 63%;
@@ -419,34 +419,46 @@ body .wrapper main section .review .column-color .card .bx {
 body .wrapper main section .review .column-color:nth-child(1) .card .bx {
   font-size: 60px;
   color: var(--blue);
-  margin-left: 75px;
+  margin-left: 50px;
 }
 body .wrapper main section .review .column-color:nth-child(1) .card .text {
   text-align: center;
 }
+body .wrapper main section .review .column-color:nth-child(1) .card .text p {
+  font-size: 15px;
+}
 body .wrapper main section .review .column-color:nth-child(2) .card .bx {
   font-size: 60px;
   color: #fccc63;
-  margin-left: 75px;
+  margin-left: 50px;
 }
 body .wrapper main section .review .column-color:nth-child(2) .card .text {
   text-align: center;
 }
+body .wrapper main section .review .column-color:nth-child(2) .card .text p {
+  font-size: 15px;
+}
 body .wrapper main section .review .column-color:nth-child(3) .card .bx {
   font-size: 60px;
   color: var(--dark-grey);
-  margin-left: 75px;
+  margin-left: 50px;
 }
 body .wrapper main section .review .column-color:nth-child(3) .card .text {
   text-align: center;
 }
+body .wrapper main section .review .column-color:nth-child(3) .card .text p {
+  font-size: 15px;
+}
 body .wrapper main section .review .column-color:nth-child(4) .card .bx {
   font-size: 60px;
   color: #b5cc18;
-  margin-left: 75px;
+  margin-left: 50px;
 }
 body .wrapper main section .review .column-color:nth-child(4) .card .text {
   text-align: center;
+}
+body .wrapper main section .review .column-color:nth-child(4) .card .text p {
+  font-size: 15px;
 }
 body .wrapper main section .chart {
   padding: 50px 0px 70px 0px;
